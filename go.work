@@ -1,5 +1,8 @@
 go 1.21.1
 
 use (
+	./src/config
+	./src/database
 	./src/http
+	./src/log
 )
