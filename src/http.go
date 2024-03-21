@@ -1,7 +1,7 @@
 // Copyright (c) Tribufu. All Rights Reserved.
 // SPDX-License-Identifier: MIT
 
-package http
+package mintaka
 
 import (
 	"os"
